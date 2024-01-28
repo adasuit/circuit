@@ -1,0 +1,9 @@
+Circuit
+============
+
+The circuit repository serves as a central hub for hardware schematics,
+datasheets, and documentation related to electronic components used in the
+A.D.A. project. It includes detailed information about hardware configurations
+and custom-designed PCBs, aiding in understanding and replicating the physical
+setup of the A.D.A. project.
+
